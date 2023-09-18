@@ -1,0 +1,2 @@
+HERE IS THE THIRD FILE : Hello ths is first text file
+ Hello this is second text file.
