@@ -1,4 +1,4 @@
-/*  */
+/*      Code blocking EVENT LOOP        */
 
 const http = require('http')
 
