@@ -6,6 +6,7 @@ const {createReadStream} = require('fs')
     1.  open
     2.  close
     3.  ready
+
 */
 
 /*
@@ -20,7 +21,7 @@ const stream =createReadStream("NODE_JS/3-Built_in_Path_Module_Content/Streams-X
 //  highWaterMark - control the size of buffer
 //  const stream =createReadStream("NODE_JS/3-Built_in_Path_Module_Content/Streams-XX-file.txt",{ highWaterMark : 90000 })
 //  const stream =createReadStream("NODE_JS/3-Built_in_Path_Module_Content/Streams-XX-file.txt",{ encoding : 'utf-8 })
-// 
+
 
 // const stream_2 = createReadStream("NODE_JS/3-Built_in_Path_Module_Content/Streams-XX-file.txt", {highWaterMark : 90000})
 

@@ -1,6 +1,7 @@
 /*  Async : Without writing our own getText function */
 
 /*
+
 const {readFile , writeFile, read } = require('fs')
 
 //   Using utility built-in module  
@@ -22,7 +23,9 @@ const start = async()=>{
 }
 
 start()
+
 */
+
 
 /*  Async : Without using util module too */
 
